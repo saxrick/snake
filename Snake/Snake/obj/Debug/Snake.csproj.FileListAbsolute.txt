@@ -1,0 +1,29 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\79126\Desktop\CSharpProjects-master\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Артем\Downloads\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Артем\Downloads\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Артем\Downloads\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Артем\Downloads\Snake\Snake\Snake\bin\Debug\Snake.pdb
